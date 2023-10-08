@@ -1,0 +1,164 @@
+rank,region,score
+1,Afghanistan,9.592
+2,Iraq,8.682
+3,Nigeria,8.314
+4,Syria,7.778
+5,Somalia,7.645
+6,Yemen,7.581
+7,Pakistan,7.541
+8,India,7.353
+9,Democratic Republic of the Congo,7.178
+10,Philippines,7.099
+11,Mali,7.049
+12,Burkina Faso,6.755
+13,Cameroon,6.627
+14,Egypt,6.419
+15,Mozambique,6.4
+16,Libya,6.25
+17,Central African Republic,6.241
+18,Turkey,6.11
+19,Colombia,6.1
+20,Sri Lanka,6.065
+21,Thailand,5.783
+22,South Sudan,5.726
+23,Kenya,5.644
+24,Niger,5.617
+25,Myanmar,5.543
+26,Sudan,5.401
+27,Nepal,5.34
+28,Ethiopia,5.307
+29,United States of America,5.26
+30,United Kingdom,5.161
+31,Palestine,5.077
+32,Saudi Arabia,5
+33,Bangladesh,4.909
+34,Chad,4.829
+35,Burundi,4.702
+36,Ukraine,4.692
+37,Indonesia,4.629
+38,France,4.614
+39,Russia,4.542
+40,Israel,4.522
+41,South Africa,4.358
+42,New Zealand,4.337
+43,Mexico,4.316
+44,Greece,4.182
+45,Tajikistan,4.18
+46,Iran,4.157
+47,Chile,4.031
+48,Germany,3.965
+49,Tunisia,3.858
+50,Rwanda,3.754
+51,Lebanon,3.661
+52,Venezuela,3.658
+53,China,3.587
+54,Angola,3.429
+55,Uganda,3.278
+56,Canada,3.171
+57,Jordan,3.149
+58,Tanzania,3.112
+59,Belgium,3.043
+59,Italy,3.043
+61,Sweden,2.892
+62,Ireland,2.845
+63,Spain,2.81
+64,Bolivia,2.795
+65,Algeria,2.696
+66,Netherlands,2.689
+67,Ecuador,2.606
+68,Brazil,2.443
+68,Zimbabwe,2.443
+70,Paraguay,2.414
+71,Bahrain,2.402
+72,Haiti,2.355
+72,Nicaragua,2.355
+74,Australia,2.148
+75,Peru,2.141
+76,Malaysia,2.09
+77,Republic of the Congo,2.043
+78,Honduras,2.023
+79,Japan,2.014
+80,Cote d' Ivoire,1.945
+81,Kuwait,1.795
+82,Ghana,1.743
+83,Finland,1.721
+84,Malawi,1.635
+85,Denmark,1.484
+86,Gabon,1.43
+87,Norway,1.297
+88,Madagascar,1.19
+89,Costa Rica,1.066
+90,Argentina,1.024
+91,Austria,1.016
+92,Kyrgyz Republic,0.95
+93,Kazakhstan,0.901
+94,Papua New Guinea,0.691
+95,Albania,0.677
+95,Bosnia and Herzegovina,0.677
+97,Benin,0.663
+97,Guatemala,0.663
+99,South Korea,0.656
+100,Georgia,0.635
+101,Taiwan,0.607
+102,Morocco,0.565
+103,Hungary,0.551
+104,Armenia,0.53
+105,Guyana,0.477
+106,Laos,0.439
+107,Montenegro,0.42
+107,Vietnam,0.42
+109,Guinea,0.41
+110,Senegal,0.391
+111,Czech Republic,0.315
+112,Azerbaijan,0.296
+113,Switzerland,0.286
+114,Poland,0.239
+115,Jamaica,0.229
+115,Lithuania,0.229
+115,Sierra Leone,0.229
+118,Liberia,0.191
+119,Bulgaria,0.172
+120,Trinidad and Tobago,0.162
+121,Zambia,0.153
+122,Cyprus,0.115
+122,Latvia,0.115
+124,Macedonia (FYR),0.105
+125,Uruguay,0.086
+126,Estonia,0.057
+126,Moldova,0.057
+126,Serbia,0.057
+129,Lesotho,0.048
+130,Djibouti,0.038
+131,Slovakia,0.029
+132,Panama,0.019
+133,Qatar,0.014
+134,Uzbekistan,0.01
+135,United Arab Emirates,0
+135,Belarus,0
+135,Bhutan,0
+135,Botswana,0
+135,Cuba,0
+135,Dominican Republic,0
+135,Eritrea,0
+135,The Gambia,0
+135,Guinea-Bissau,0
+135,Equatorial Guinea,0
+135,Croatia,0
+135,Iceland,0
+135,Cambodia,0
+135,Kosovo,0
+135,Mongolia,0
+135,Mauritania,0
+135,Mauritius,0
+135,Namibia,0
+135,Oman,0
+135,North Korea,0
+135,Portugal,0
+135,Romania,0
+135,Singapore,0
+135,El Salvador,0
+135,Slovenia,0
+135,Swaziland,0
+135,Togo,0
+135,Turkmenistan,0
+135,Timor-Leste,0
